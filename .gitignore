@@ -1,0 +1,15 @@
+# Local configuration and secrets
+.env
+config.local.php
+
+# Setup script containing temporary admin credentials
+setup.php
+
+# PHP and editor files
+*.log
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
